@@ -25,7 +25,7 @@ above will use your default browser to open a new tab for searching koa by googl
 
 use `ds -l` or `ds --list` to show the full list of supported search engines
 
-| Name      | abbr                          |
+| Name      | Abbreviation                  |
 | --------- | ----------------------------- |
 | b \| ba   | baidu(百度)                   |
 | bf        | baidu-translate(百度翻译)     |
