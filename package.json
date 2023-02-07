@@ -13,7 +13,7 @@
     "prepare": "husky install"
   },
   "lint-staged": {
-    "./*.{js,ts}": [
+    ".src/*.{js,ts}": [
       "eslint --config .eslintrc"
     ]
   },
