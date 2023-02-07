@@ -1,6 +1,6 @@
 # direct-search-terminal
 
-> terminal version of [direct-search](https://github.com/CiroLee/direct-search)
+> terminal version of [direct-search-web](https://github.com/CiroLee/direct-search)
 
 # install
 
