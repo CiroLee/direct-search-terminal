@@ -1,7 +1,7 @@
 {
   "name": "direct-search-terminal",
   "version": "0.0.1",
-  "description": "",
+  "description": "terminal version of direct-search-web",
   "main": "lib/index.js",
   "type": "module",
   "bin": {
