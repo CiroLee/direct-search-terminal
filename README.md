@@ -41,6 +41,7 @@ use `ds -l` or `ds --list` to show the full list of supported search engines
 | go        | google(谷歌)                  |
 | gf        | google-translate(google 翻译) |
 | j \| jue  | juejin(掘金)                  |
+| mdn       | mdn(MDN Web Docs)             |
 | n         | npm                           |
 | se \| sf  | segmentfault(思否)            |
 | st        | stackoverflow                 |

@@ -23,7 +23,7 @@ export const searchEngineMap: ISearchEngine[] = [
     searchUrl: 'https://google.com/search?q=',
   },
   {
-    name: 'being',
+    name: 'bing',
     cname: '必应',
     abbr: ['be'],
     type: 'engine',
@@ -135,6 +135,13 @@ export const searchEngineMap: ISearchEngine[] = [
     cname: '维基百科',
     abbr: ['wi'],
     searchUrl: 'https://zh.wikipedia.org/wiki/',
+  },
+  {
+    name: 'mdn',
+    type: 'website',
+    cname: 'MDN Web Docs',
+    abbr: ['mdn'],
+    searchUrl: 'https://developer.mozilla.org/zh-CN/search?q=',
   },
 ];
 
